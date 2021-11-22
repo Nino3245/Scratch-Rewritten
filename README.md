@@ -1,2 +1,2 @@
-# Baldis-Basics-Rewritten
+# Scratch-Rewritten
 My first repository :)
